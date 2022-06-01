@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @that-chick
-- 👀 I’m interested in Full stack web. dev. and AI.
+- 👀 I’m interested in Full stack web. dev. and AI, Data Analytics and software development.
 - 🌱 I’m currently learning python and pytorch
 - 💞️ I’m looking to collaborate on anything.
 - 📫 You'll figure out how to reach me.
